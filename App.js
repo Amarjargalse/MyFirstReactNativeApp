@@ -7,6 +7,7 @@ export default function App() {
   return (
     <View>
       <Movie/>
+      <Text>HIIIIII</Text>
     </View>
   );
 }
