@@ -6,7 +6,7 @@ import Movie from './Movie';
 export default function App() {
   return (
     <View>
-      <Movie  />
+      <Movie/>
     </View>
   );
 }
